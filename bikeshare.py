@@ -219,6 +219,7 @@ def view_raw_data(df):
             break
 
 def main():
+    print("Hello")
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
