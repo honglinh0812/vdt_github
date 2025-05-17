@@ -220,6 +220,7 @@ def view_raw_data(df):
 
 def main():
     print("Hello")
+    print("Refactored")
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
