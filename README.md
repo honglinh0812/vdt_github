@@ -11,7 +11,7 @@ This is a demo project to learn about GitHub.
 
 ### Files used
 Include the files used
+Every files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 Credit: miennt17
